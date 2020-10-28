@@ -12,7 +12,7 @@
 
 - 🏢 I'm currently working **Remotely** at **Yeditech**
 - ⚙️ I use: `Reactjs`, `Nodejs`, `JavaScript`, `.html`, `.css`, `.scss`, `.svg`,
-- 🌱 I’m currently learning **GraphQL**, **Typescript**, **Testing**
+- 🌱 I’m currently learning **GraphQL**, **Typescript**, **React Testing Library**
 - 🌍 I'm mostly active within the **React Community**
 - 🌱 Learning all about **Open Source** and **Software developemnt**
 - 💬 Ping me about **JavaScript**, **React**, **development**
