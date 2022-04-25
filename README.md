@@ -11,7 +11,7 @@
 #### I'm Olawale, a Frontend Developer doing epic shii at Yeditech
 
 - 🏢 I'm currently working **Remotely** at **Yeditech**
-- ⚙️ I use: `Reactjs`, `Nodejs`, `JavaScript`, `.html`, `.css`, `.scss`, `.svg`,
+- ⚙️ I use: `Reactjs`, `Nodejs`, `JavaScript`, `Next.js`,
 - 🌱 I’m currently learning **GraphQL**, **Typescript**, **React Testing Library**
 - 🌍 I'm mostly active within the **React Community**
 - 🌱 Learning all about **Open Source** and **Software developemnt**
